@@ -2,9 +2,9 @@
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
-- **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
+- **🔥 [Pyrogram](https://pyrogram.org)**
 - **I put mostly of my focus on [Python](https://python.org)**
-- **My Everyday usage is based on: `.py` `.nim` `.sh`**
+- **My Everyday usage is based on: `.py` `.php` `.sh`**
 
 ## 👦 **About me**:
 
@@ -51,7 +51,7 @@
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify.Ihsan.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
+[![Spotify](https://spotify.Scroxy-X.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
 
 
 ##  🐙 **Github Stats**
