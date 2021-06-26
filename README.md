@@ -2,9 +2,18 @@
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
-- **🔥 [Pyrogram](https://pyrogram.org)**
+- **🔥 [Pyrogram](https://pyrogram.org) and 🔥 [Telethon](https://telethon.org)**
 - **I put mostly of my focus on [Python](https://python.org)**
 - **My Everyday usage is based on: `.py` `.php` `.sh`**
+
+### Connect with me:
+[<img align="left" alt="Ihsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ihsan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+
+[instagram]: https://instagram.com/ihsan_rxymx
+[telegram]: https://t.me/RxyMX
 
 ## 👦 **About me**:
 
