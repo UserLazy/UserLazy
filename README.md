@@ -51,7 +51,7 @@
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify.Scroxy-X.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
+[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
 
 
 ##  🐙 **Github Stats**
@@ -69,7 +69,7 @@
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Scroxy-X&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scroxy-X)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💰 **Donations & Support**
