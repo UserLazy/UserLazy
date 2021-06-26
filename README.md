@@ -68,10 +68,6 @@
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scroxy-X&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
 
 
-## 🕒 **Wakatime Stats**
-[![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scroxy-X)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 💰 **Donations & Support**
 
 - **Buy me a Ko-fi:**
