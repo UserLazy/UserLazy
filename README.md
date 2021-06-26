@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa pokuruto desu ~  | [![Profile views](https://gpvc.arturio.dev/UserLazy)](https://github.com/UserLazy)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ihsan desu ~  | [![Profile views](https://gpvc.arturio.dev/UserLazy)](https://github.com/UserLazy)
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
