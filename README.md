@@ -56,8 +56,7 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-Ihsan-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RxyMX)
 ![Gmail Badge](https://img.shields.io/badge/-ihsanzcoki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihsanzcoki@gmail.com)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/Grup_Anime_Chat)
-
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Chat&longCache=true%22)](https://t.me/Grup_Anime_Chat)
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
